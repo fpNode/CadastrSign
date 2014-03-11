@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/7z.dll</file>
+        <file>res/7z.exe</file>
+        <file>res/app.png</file>
+    </qresource>
+</RCC>
